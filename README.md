@@ -1,3 +1,5 @@
+# just a fork that has actions re-enabled
+
 # Signal Android 
 
 Signal is a simple, powerful, and secure messenger.
