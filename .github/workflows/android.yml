@@ -7,6 +7,7 @@ on:
     - 'main'
     - '4.**'
     - '5.**'
+    - 'fork-5.53.8'
 
 jobs:
   build:
