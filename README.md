@@ -1,3 +1,4 @@
+# just a fork that has actions re-enabled
 # Signal Android (but less sucky)
 
 This is a fork of Signal that provides SMS support. It is far (FAR) from completion, but at least it doesn't have those stupid, naggy messages telling you to update.
